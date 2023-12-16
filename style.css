@@ -1,0 +1,20 @@
+button{
+    background-color: blue;
+    padding: 25px 60px;
+    
+}
+
+button:hover{
+background-color:green;
+}
+
+h1{
+    
+    font-family: 'Rubik'; 
+    font-weight: bolder;
+    font-size: 50px;
+}
+
+#qoutes{
+    font-family: 'Hedvig Letters Serif'; 
+}
